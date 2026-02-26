@@ -32,4 +32,6 @@ jobs:
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --no-restore
+      run: |
+        cat .editorconfig
+        dotnet build --no-restore
