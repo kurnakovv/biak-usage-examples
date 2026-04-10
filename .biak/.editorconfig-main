@@ -1045,3 +1045,5 @@ resharper_possible_multiple_enumeration_highlighting = none # Code inspection: P
 resharper_inconsistent_naming_highlighting = none # Code inspection: Inconsistent Naming https://www.jetbrains.com/help/resharper/InconsistentNaming.html
 
 ## *END* ReSharper Inspect Code
+
+^biak^ import "invalidPath"
