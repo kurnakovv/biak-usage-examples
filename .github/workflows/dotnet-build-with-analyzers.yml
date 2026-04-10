@@ -24,9 +24,9 @@ jobs:
 
     - name: Install and run biak
       run: |
-        dotnet tool install --global kurnakovv.biak
-        dotnet biak
-        dotnet biak enable
+        dotnet tool install --global kurnakovv.biak-pr --version 0.0.1-pr-67
+        dotnet biak-pr
+        dotnet biak-pr enable
 
     - name: Restore dependencies
       run: dotnet restore
