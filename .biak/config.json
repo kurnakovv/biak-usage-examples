@@ -5,5 +5,5 @@
     "warning",
     "suggestion"
   ],
-  "onImportFailure": "warning"
+  "onImportFailure": "nothing"
 }
