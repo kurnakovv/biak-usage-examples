@@ -27,6 +27,8 @@ jobs:
         dotnet tool install --global kurnakovv.biak-preview --version 0.0.24-preview
         dotnet biak-preview
         dotnet biak-preview enable
+        ls
+        cat .editorconfig
 
     - name: Restore dependencies
       run: dotnet restore
