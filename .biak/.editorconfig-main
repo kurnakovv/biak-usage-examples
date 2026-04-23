@@ -1045,3 +1045,9 @@ resharper_possible_multiple_enumeration_highlighting = none # Code inspection: P
 resharper_inconsistent_naming_highlighting = none # Code inspection: Inconsistent Naming https://www.jetbrains.com/help/resharper/InconsistentNaming.html
 
 ## *END* ReSharper Inspect Code
+
+# Code analysis (CAxxxx) rules
+^biak^ import https://gist.githubusercontent.com/kurnakovv/7ca966f8099209136f4baa87d804d39c/raw/cfb32e5b1da5c9dcd7340de5f1d166109642979d/.editorconfig
+
+# Code-style (IDExxxx) rules
+^biak^ import https://gist.githubusercontent.com/kurnakovv/b396696805339988a547c6d53a0d0254/raw/193bb9d95f8132a690d7a3e51aa8291bd2bb4dba/.editorconfig
