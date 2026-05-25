@@ -6,3 +6,5 @@ root = true
 
 # Code-style (IDExxxx) rules
 ^biak^ import https://gist.githubusercontent.com/kurnakovv/b396696805339988a547c6d53a0d0254/raw/193bb9d95f8132a690d7a3e51aa8291bd2bb4dba/.editorconfig
+
+^biak^ import https://gist.githubusercontent.com/kurnakovv/b396696805339988a547c6d53a0d0254/raw/193bb9d95f8132a690d7a3e51aa8291bd2bb4dba/.editorconfig-fdsaadfadfadfsdfasasdfsdf

@@ -24,9 +24,9 @@ jobs:
 
     - name: Install and run biak
       run: |
-        dotnet tool install --global kurnakovv.biak-preview --version 0.0.24-preview
-        dotnet biak-preview
-        dotnet biak-preview enable
+        dotnet tool install --global kurnakovv.biak-pr --version 0.0.2-pr-100
+        dotnet biak-pr
+        dotnet biak-pr enable
         ls
         cat .editorconfig
 
